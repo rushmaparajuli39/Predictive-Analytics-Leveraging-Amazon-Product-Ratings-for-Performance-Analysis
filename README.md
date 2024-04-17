@@ -31,5 +31,8 @@ Predicting Product Sales: Can we predict the number of sales for a product based
 
 ![WhatsApp Image 2024-04-13 at 3 08 24 PM](https://github.com/rushmaparajuli39/Predictive-Analytics-Leveraging-Amazon-Product-Ratings-for-Performance-Analysis/assets/89615796/7e8da790-0429-4700-b3ed-f4a6f23b496f)
 
+![WhatsApp Image 2024-04-13 at 2 52 37 PM](https://github.com/rushmaparajuli39/Predictive-Analytics-Leveraging-Amazon-Product-Ratings-for-Performance-Analysis/assets/89615796/50ddc234-2d96-4f6a-9d23-51f9a5256613)
+
+
 
 
