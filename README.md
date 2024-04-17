@@ -29,5 +29,7 @@ The dataset has been uploaded as a .csv file along with the R code.
 Classifying Products by Rating: Can we classify products into high and low-rated categories based on their features like discounted price, actual price, rating and discount percentage?
 Predicting Product Sales: Can we predict the number of sales for a product based on its, discounted price, actual price, discount percentage and rating?
 
+![WhatsApp Image 2024-04-13 at 3 08 24 PM](https://github.com/rushmaparajuli39/Predictive-Analytics-Leveraging-Amazon-Product-Ratings-for-Performance-Analysis/assets/89615796/7e8da790-0429-4700-b3ed-f4a6f23b496f)
+
 
 
